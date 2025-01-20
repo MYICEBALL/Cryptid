@@ -1172,13 +1172,13 @@ return {
                 },
             },
             j_cry_macabre = {
-                name = "Macabre Joker",
+                name = "悚小丑",
                 text = {
-                    "When {C:attention}Blind{} is selected,",
-                    "destroys each {C:attention}Joker{} except",
-                    "{C:legendary}M Jokers{} and {C:attention}Jolly Jokers{}",
-                    "and create 1 {C:attention}Jolly Joker{}",
-                    "for each destroyed card",
+                    "當 {C:attention} 盲注{} 被選擇,",
+                    "摧毀每個 {C:attention}小丑{} 除了",
+                    "{C:legendary}M小丑{} 和 {C:attention}快樂小丑{}",
+                    "並生成 1個 {C:attention}快樂小丑{}",
+                    "對於每一張被摧毀的卡",
                 },
             },
             j_cry_magnet = {
